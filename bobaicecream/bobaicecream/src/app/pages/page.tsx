@@ -1,5 +1,4 @@
 const Hello = () => {
-
   return (
     <div>
       Hello world!
